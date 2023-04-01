@@ -1,0 +1,13 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+    display:flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    color:rgb(246, 198, 8);
+}
+li{
+    color:brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
